@@ -10,7 +10,7 @@ But Why?
 
 TL;DR: [Towel Day](http://en.wikipedia.org/wiki/Towel_Day)
 
-Perhaps it would be more appropriate to have a Github towel but a good towel is a waste without a matching bathrobe. Also, anyway who has read [The Hitchhiker's Guide to the Galaxy](http://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy) will know that [Arthur Dent](http://en.wikipedia.org/wiki/Arthur_Dent) spent the entire novel in a bathrode. Hence, no good [Towel Day](http://en.wikipedia.org/wiki/Towel_Day) can be without a bathobe ... a github:bathrobe!
+Perhaps it would be more appropriate to have a Github towel but a good towel is a waste without a matching bathrobe. Also, anyway who has read [The Hitchhiker's Guide to the Galaxy](http://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy) will know that [Arthur Dent](http://en.wikipedia.org/wiki/Arthur_Dent) spent the entire novel in a bathrobe. Hence, no good [Towel Day](http://en.wikipedia.org/wiki/Towel_Day) can be without a bathrobe ... a github:bathrobe!
 
 Bathrobes are extremely Comfortable
 -----------------------------------
@@ -20,7 +20,7 @@ Bathrobes are the single most underestimated piece of clothing on the planet. Th
 Protoype
 --------
 
-To prove the point, a protoype has been developed in hours of intense work. This protoype features ... well it's a bathrobe so you know what the features are :)
+To prove the point, a prototype has been developed in hours of intense work. This protoype features ... well it's a bathrobe so you know what the features are :)
 
 ![Prototype](https://github.com/gorenje/github.bathrobe/raw/master/image.png)
 
